@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "SearchInput":"/compontents/SearchInput/SearchInput",
+    "Tabs":"/compontents/tabs/tabs"
+  },
+  "navigationBarTitleText": "购物车",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark"
+}

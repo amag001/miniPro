@@ -1,0 +1,7 @@
+<!--compontents/SearchInput/SearchInput.wxml-->
+<view class="search_input">
+    <navigator class="navigator" target="" url="/pages/search/index"  open-type="navigate">
+        搜索
+    </navigator>
+    
+</view>
